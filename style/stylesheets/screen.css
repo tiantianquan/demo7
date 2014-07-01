@@ -54,30 +54,6 @@ a img {
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary {
   display: block; }
 
-/* line 15, ../sass/screen.scss */
-* {
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box; }
-
-/* line 19, ../sass/screen.scss */
-body {
-  background-color: #444;
-  overflow: hidden; }
-
-/* line 24, ../sass/screen.scss */
-.ground {
-  position: fixed;
-  bottom: 0;
-  width: 100%;
-  height: 200px;
-  border-top: 4px solid #000; }
-
-/* line 32, ../sass/screen.scss */
-.box {
-  position: absolute;
-  border: 2px solid;
-  border-color: #cccccc;
-  height: 20px;
-  width: 20px;
-  background-color: #f2a81c; }
+/* line 4, ../sass/screen.scss */
+div a {
+  width: 100px; }
